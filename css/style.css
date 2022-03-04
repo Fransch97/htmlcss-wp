@@ -6,7 +6,6 @@
 }
 
 body{
-    /* background-color: red; */
 }
 
 .website{
@@ -16,6 +15,15 @@ body{
     width: 80%;
 }
 
+
+li{  
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+    text-transform: uppercase;
+}
 
 
 
@@ -39,6 +47,28 @@ header .heading{
     background-color: #E579E6;
 }
 
+/* LOGO  */
+header .heading .logo{
+    height: 100%;
+}
+
+
+/* NAV  */
+nav{
+    background-color: #0081EF;
+    height: 100%;
+    display: inline-block;
+}
+a{  
+    line-height: 50px;
+    display: inline-block;
+    padding: 25px;
+    background-color: red;
+}
+
+
+
+/* SECOND HEADER || JUMBO */
 header .heading-second{
     height: 500px;
     background-color: #E1D67A;
