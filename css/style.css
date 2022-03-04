@@ -34,6 +34,19 @@ h5{
     padding: 15px 0
 }
 
+
+
+/* THE HOVER'S && ACTIVE */
+a:hover{
+    color: black;
+    font-size: 17px;
+}
+.opacity:hover{
+    background-color: rgba(0, 0, 0, 0.453);
+}
+
+
+
 /* UTILITYS */
 .float{
     float: left;
@@ -77,7 +90,6 @@ header .heading .logo{
 
 
 /* NAV  */
-
 nav{
     /* background-color: #0081EF; */
     height: 100%;
