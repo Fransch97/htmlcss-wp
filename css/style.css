@@ -39,7 +39,8 @@ h5{
 /* THE HOVER'S && ACTIVE */
 a:hover{
     color: black;
-    font-size: 17px;
+    /* font-size: 16px;  NOT RESPONSIVE ore have to change in UTILITY -> .window -> min-width; */
+    font-weight: bold;
 }
 .opacity:hover{
     background-color: rgba(0, 0, 0, 0.453);
