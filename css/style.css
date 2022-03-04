@@ -18,6 +18,7 @@
 
 li{  
     list-style-type: none;
+    display: inline-block;
 }
 
 a{  
@@ -85,7 +86,6 @@ header .heading{
 
 /* LOGO  */
 header .heading .logo{
-    height: 100%;
 }
 
 
@@ -186,7 +186,6 @@ section{
 
 /* FOOTER  */
 footer{
-    height: 70px;
     /* background-color: #8801FE ; */
     margin: 5px auto 20px auto;
 }
