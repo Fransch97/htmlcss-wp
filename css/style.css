@@ -1,0 +1,88 @@
+/* GENEREAL */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    /* background-color: red; */
+}
+
+.website{
+    max-width: 1500px;
+    min-width: 500px;
+    margin: auto;
+    width: 80%;
+}
+
+
+
+
+/* UTILITYS */
+.float{
+    float: left;
+    background-color: #ABCFE7;
+    height: 565px;
+}
+.clearfix::after{
+    content: "";
+    display: table;
+    clear: both;
+}
+
+
+/* HEADER  */
+header .heading{
+    height: 100px;
+    margin-bottom: 20px ;
+    background-color: #E579E6;
+}
+
+header .heading-second{
+    height: 500px;
+    background-color: #E1D67A;
+    margin: 20px 0;
+
+}
+
+
+
+/* MAIN  */
+main{
+    height: 700px;
+    background-color: #0081EF;
+}
+
+
+
+
+.mainheader{
+    background-color: #ABCFE7;
+    height: 100px;
+}
+
+.col-container{
+    padding: 17.5px 0;
+}
+aside{
+    width: 14%;
+}
+
+section{
+    width: 70%;
+    margin: 0% 1%;
+}
+
+/* FOOTER  */
+footer{
+    height: 70px;
+    background-color: #8801FE ;
+    margin: 5px auto 20px auto;
+}
+.extra{
+    max-width: 1500px;
+    min-width: 500px;
+    margin:8px auto 20px auto;
+    width: 80%;
+}
