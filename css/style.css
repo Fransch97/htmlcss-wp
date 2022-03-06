@@ -9,8 +9,8 @@
 }
 
 .website{
-    max-width: 1500px;
-    min-width: 570px;
+    max-width: 1206px;
+    min-width: 600px;
     margin: auto;
     width: 80%;
 }
@@ -110,7 +110,7 @@ a{
 /* SECOND HEADER && JUMBO */
 header .heading-second{
     height: 500px;
-    background-color: #E1D67A;
+    /* background-color: #E1D67A; */
     margin: 20px 0;
     background-image: url(../img/banner.jpg);
     background-size: cover;
