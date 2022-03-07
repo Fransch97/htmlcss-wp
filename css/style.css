@@ -30,10 +30,9 @@ main p{
     color: grey;
 }
 
-h5{
-    padding: 15px 0
+aside p, section p {
+    margin-top: 10px;
 }
-
 
 
 /* THE HOVER'S && ACTIVE */
