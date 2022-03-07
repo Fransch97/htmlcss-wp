@@ -79,24 +79,22 @@ a:hover{
 
 /* HEADER  */
 header .heading{
-    height: 100px;
+    height: 70px;
     margin-bottom: 20px ;
     /* background-color: #E579E6; */
+}
+header .heading.logo{
+    width: 180px;
+    border-right: 1px solid lightgray;
 }
 
 /* LOGO  */
 header .heading .logo{
+    height: 100%;
 }
 
 
 /* NAV  */
-nav{
-    /* background-color: #0081EF; */
-    height: 100%;
-    padding: 15px 0;
-
-}
-
 a{  
     display: inline-block;
     padding: 25px 8px;
